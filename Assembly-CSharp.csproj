@@ -51,9 +51,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Exit.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\Go.cs" />
+     <Compile Include="Assets\Scripts\InputAction.cs" />
      <Compile Include="Assets\Scripts\Room.cs" />
      <Compile Include="Assets\Scripts\RoomNavigation.cs" />
+     <Compile Include="Assets\Scripts\TextInput.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Programmes/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
